@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋Hi, my name is Kyle.
 
-<!--
-**kjdemers/kjdemers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨About Me: 
 
-Here are some ideas to get you started:
+🩺 Cardiac ICU Nurse in Cincinnati, OH.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 B.S. in Nursing @ Miami University, Oxford.
+
+⚕️ Currently, I come from a clinical background and am pursuing interests related to informatics and web development. 
+
+### ⚙️ Projects: 
+
+[Nursebro - A pharmacology reference tool designed to provide tailored drug guides to nursing students.](https://www.nursebro.com/)
+![Capture](https://user-images.githubusercontent.com/122202644/231327471-0d41d802-a098-4db1-a44f-f037f0951e24.PNG)
+
