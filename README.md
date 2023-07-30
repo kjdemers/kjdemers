@@ -2,11 +2,11 @@
 
 ### ✨About Me: 
 
-🩺 Cardiac ICU Nurse in Cincinnati, OH.  
+🩺  Prev. Cardiac ICU Nurse | Currently working in clinical research. 
 
 📚 B.S. in Nursing @ Miami University, Oxford.
 
-⚕️ Currently, I come from a clinical background and am pursuing interests related to informatics and web development. 
+⚕️ Currently, I come from a clinical background and am pursuing the intersectionality of coding and healthcare technology. 
 
 ### ⚙️ Projects: 
 
