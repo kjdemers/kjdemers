@@ -6,7 +6,7 @@
 
 📚 B.S. in Nursing @ Miami University, Oxford.
 
-⚕️ Currently, I come from a clinical background and am pursuing the intersectionality of coding and healthcare technology. 
+⚕️ Currently, I come from a clinical background and am interested in the intersectionality of coding and healthcare technology. 
 
 ### ⚙️ Projects: 
 
